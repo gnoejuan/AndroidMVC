@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoCatch_3</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">GeoCache App</string>
+    <string name="GeoCache">GeoCache Image</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
